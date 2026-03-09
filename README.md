@@ -1,1 +1,1 @@
-# lazarus_probe_logs-
+HOW to send logs
