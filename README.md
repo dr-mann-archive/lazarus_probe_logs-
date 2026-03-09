@@ -1,1 +1,1 @@
-HOW to send logs
+Just type here
